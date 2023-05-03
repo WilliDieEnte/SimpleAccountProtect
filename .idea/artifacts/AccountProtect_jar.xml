@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AccountProtect:jar">
+    <output-path>D:/CompilerOutput/artifacts/AccountProtect_jar</output-path>
+    <root id="archive" name="AccountProtect.jar">
+      <element id="module-output" name="AccountProtect" />
+    </root>
+  </artifact>
+</component>

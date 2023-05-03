@@ -1,0 +1,5 @@
+name: AccountProtect
+version: '${project.version}'
+main: dev.ente.accountprotect.AccountProtect
+author: WillIDieEnte
+description: made for Gr1ZzLy
